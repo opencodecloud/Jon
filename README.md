@@ -5,7 +5,8 @@ Time flies, and I have no intention of losing my passion for coding in the proce
 
 contact me:
 Email: ijonso123@gmail.com or ijonso@qq.com
-Personal website: https://jon.wiki (Although it is not fully set up yet, I will improve it someday.)
+
+Website: https://jon.wiki (Although it is not fully set up yet, I will improve it someday.)
 
 ## 您好
 我是Jon。我曾多年前创建并维护着一些项目，但随着工作日益繁忙，逐渐减少了投入在这些项目上的时间，以至于部分项目被迫中止。我甚至遗忘了如abasecode.com域名的续费，还有Github的账号。因此，我新近申请了opencode.cloud域名，将我所拥有的代码项目进行了迁移，并进行了代码升级。
@@ -15,4 +16,5 @@ Personal website: https://jon.wiki (Although it is not fully set up yet, I will 
 以下是我的联系方式：
 
 电子邮箱：ijonso123@gmail.com 或者 ijonso@qq.com
+
 个人主页：https://jon.wiki （虽然我尚未完全搭建完毕，但总有一天我会完善它的。）
